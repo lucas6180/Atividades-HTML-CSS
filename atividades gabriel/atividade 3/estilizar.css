@@ -1,0 +1,14 @@
+.caixa1 {
+border: 1px solid;
+width: 500px;
+height: 300px;
+padding: 10px;
+margin-bottom: 20px;
+}
+.caixa2 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    padding: 10px;
+
+}

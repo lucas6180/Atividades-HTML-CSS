@@ -1,0 +1,8 @@
+.r {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    border: solid 2px;
+    box-shadow: 7px 7px 10px grey;
+    padding: 20px;
+}

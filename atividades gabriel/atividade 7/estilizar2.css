@@ -1,0 +1,30 @@
+.ref{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+}
+.mensagem{
+    width: 76vh;
+    height: 29vh;
+    font-size: 5vh;
+    position: relative;
+    border: solid;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin-bottom: 8vh;
+    left: 2vh;
+
+}
+.t1{
+    position: relative;
+    left: 19vh;
+    margin-bottom: -22vh;
+    bottom: 6vh;
+}
+.t2{
+    position: relative;
+    bottom: 6vh;
+    left: 1vh;
+}

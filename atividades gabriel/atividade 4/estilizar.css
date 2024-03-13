@@ -1,0 +1,23 @@
+.caixa1{
+ border: 2px solid black;
+ border-radius: 7px;
+ width: 500px;
+ height: 300px;
+ background-image: url(Imagem\ do\ WhatsApp\ de\ 2024-02-29\ à\(s\)\ 20.09.08_10d633bd.jpg);
+background-size: cover;
+padding: 20px;
+    }
+    .subcaixa1{
+        border: 1px solid;
+        width: 10px;
+        height: 10px;
+        padding: 10px;
+        background-color: white;
+    }
+     .subcaixa2 {
+        border: 1px solid;
+        width: 10px;
+        height: 10px;
+        padding: 10px;
+        background-color: black;
+     }

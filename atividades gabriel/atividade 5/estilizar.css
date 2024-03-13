@@ -1,0 +1,35 @@
+
+.i1:first-child{
+padding: 10px;
+border-radius: 5px;
+margin: 10px;
+border: solid 1px gray;
+width: 150px;
+color: rgb(83, 26, 26);
+background-color:rgb(231, 255, 255);
+
+}
+
+
+
+
+
+.i2{
+border: solid 1px;
+width: 150px;
+padding: 10px;
+border-radius: 5px;
+margin: 10px;
+border: solid 1px gray;
+background-color: rgb(196, 255, 194);
+}
+
+.i3:last-child{
+padding: 10px;
+margin: 10px;
+color: rgb(0, 0, 0);
+background-color:rgb(255, 255, 184);
+width: 150px;
+border-radius: 5px;
+
+}
